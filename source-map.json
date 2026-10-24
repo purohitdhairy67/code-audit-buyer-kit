@@ -1,0 +1,45 @@
+{
+  "asset_id": "GH-001",
+  "title": "Code audit buyer kit",
+  "prepared_on": "2026-10-24",
+  "preparation_method": "Original editorial templates prepared with AI assistance from Ekyon public service scope. No application testing.",
+  "intended_github_owner": "purohitdhairy67",
+  "publication_status": "Public reusable resource",
+  "sources": [
+    {
+      "url": "https://ekyon.io/services/code-audit",
+      "basis": [
+        "Scoped code review, evidence boundaries, findings and handover requirements."
+      ]
+    }
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "purpose": "Orientation, workflow, scope, authorship and one contextual service link"
+    },
+    {
+      "path": "FINDING-TEMPLATE.md",
+      "purpose": "Original reusable finding structure with evidence, uncertainty, priority and closure fields"
+    },
+    {
+      "path": "AUDIT-ACCEPTANCE-CHECKLIST.md",
+      "purpose": "Original buyer checklist and agreement/acceptance records"
+    },
+    {
+      "path": "EXAMPLE-FINDING.md",
+      "purpose": "Fully fictional source-only workspace export scenario; no real code or testing evidence"
+    }
+  ],
+  "originality_and_limits": [
+    "Newly prepared editorial text based on Ekyon public service scope; no proprietary project source or client evidence included.",
+    "Example names, route, revision label, observations and requirements are invented and labelled fictional.",
+    "No claim of a real engagement, confirmed vulnerability, completed repair, certification, legal compliance or guaranteed security.",
+    "No quoted external standards or third-party template text. No jurisdiction-specific legal claims."
+  ],
+  "license": {
+    "spdx_id": "MIT",
+    "file": "LICENSE"
+  },
+  "ready_repository_description": "Practical code audit finding templates and a buyer acceptance checklist, with a clearly fictional worked example."
+}
